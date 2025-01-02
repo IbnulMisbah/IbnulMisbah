@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Al Masum! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving into the world of programming, robotics, and science.  I love exploring new technologies and pushing the boundaries of my knowledge every day.
+Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving into the world of programming, robotics, and science.     I love exploring new technologies and pushing the boundaries of my knowledge every day.
 
 ## 🚀 About Me
 
