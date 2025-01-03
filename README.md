@@ -40,13 +40,24 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving 
 - Configuring **Neovim** as an IDE for efficient development.
 - Learning **Git** and mastering **GitHub workflows**.
 
-## 🌟 GitHub Stats
+### 🌱 Attraction & Affection:
+- 🔧 Programming: C, C++, Python, Java, JavaScript.
+- 🤖 Robotics: Arduino, ESP8266, ESP32.
+- 🎨 Arts: Creative coding with Processing.
+- 🐧 Linux Enthusiast: Parrot, Arch, and Termux setups.
+
+### 🌟 GitHub Stats
 <!-- GitHub stats provide an overview of activity -->
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=radical)
 
-<!-- Language stats for repositories -->
+### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnulMisbah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibnulmisbah&theme=radical)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibnulmisbah&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
