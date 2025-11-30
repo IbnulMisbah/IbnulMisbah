@@ -1,15 +1,16 @@
 # Hi there, I'm Abdullah Al Masum! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving into the world of programming, robotics, and science.     I love exploring new technologies and pushing the boundaries of my knowledge every day.
+Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world of programming, robotics, and data science. I love exploring new technologies and pushing the boundaries of my knowledge every day.
 
 ## 🚀 About Me
 
 - 🌍 I'm from **Bangladesh** 🇧🇩
-- 🎓 **O Level student** ( in Bangladesh called 'Class 10') with a passion for learning.
-- 💻 Linux enthusiast, using **Parrot OS** and **Termux** for development.
-- 🎨 Exploring the intersection of **Art and Code** with **Processing.org**.
-- 🤖 Working with **Arduino**, **ESP8266**, and **ESP32** for robotics projects.
-- 📚 Avid reader of science books and curious explorer of scientific discoveries.
+- 🎓 **High School student** with a passion for learning.
+- 🎨 Interested in **Digital Art and Painting** with **Krita.org**.
+- 💻 Linux enthusiast, using **Arch Linux** and **Neovim** for development.
+- 🤖 Working with **Arduino**, **ESP8266**, and **ESP32** for building robotics projects.
+- 📚 Avid reader of science fictions and curious explorer of scientific discoveries and modern technologies.
+<!-- - 🎨 Exploring the intersection of **Art and Code** with **Processing.org**.-->
 
 ## 🛠️ Tech Stack
 
@@ -17,13 +18,13 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 
 ### Tools & Platforms:
-![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
-![Termux](https://img.shields.io/badge/-Termux-2CA5E0?style=for-the-badge&logo=termux&logoColor=white)
+<!-- ![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+<!-- ![Termux](https://img.shields.io/badge/-Termux-2CA5E0?style=for-the-badge&logo=termux&logoColor=white) -->
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -35,19 +36,20 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving 
 
 ### Interests:
 - Learning **programming** to make my life enjoyable .
-- Linux distributions like **Parrot OS** and **Arch Linux**.
-- Creating **science project** to protect the world .
+- Linux distributions like **Arch Linux** and **Parrot OS**.
+<!-- - Creating **science project** to protect the world .
 - Configuring **Neovim** as an IDE for efficient development.
 - Learning **Git** and mastering **GitHub workflows**.
-
+-->
 ### 🌱 Attraction & Affection:
-- 🔧 Programming: C, C++, Python, Java, JavaScript.
+- 🔧 Programming: C, C++, Python.
 - 🤖 Robotics: Arduino, ESP8266, ESP32.
-- 🎨 Arts: Creative coding with Processing.
-- 🐧 Linux Enthusiast: Parrot, Arch, and Termux setups.
+- 🎨 Arts: Creative Painting with Krita.
+- 🐧 Linux Enthusiast: Arch Linux and Parrot OS.
 
+<!--
 ### 🌟 GitHub Stats
-<!-- GitHub stats provide an overview of activity -->
+<!-- GitHub stats provide an overview of activity 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=radical)
 
 ### 📊 Most Used Languages
@@ -56,13 +58,14 @@ Welcome to my GitHub profile! I'm an enthusiastic learner and developer, diving 
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibnulmisbah&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
+---
 ## 📫 Connect with Me
 
-<!-- Social and contact badges -->
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbnulMisbah)
+<!-- Social and contact badges :
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbnulMisbah)   -->
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahibnulmisbah@gmail.com)
 
 
 <!-- Closing message -->
-Feel free to explore my repositories, contribute, or get in touch if you share similar interests. Let's build something amazing together!
+Feel free to explore my repositories or get in touch if you share similar interests. Let's build something amazing together!
