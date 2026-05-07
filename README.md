@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 - 🌍 I'm from **Bangladesh** 🇧🇩
 - 🎓 **High School student** with a passion for learning.
 - 🎨 Interested in **Digital Art and Painting** with **Krita.org**.
-- 💻 Linux enthusiast, using **Arch Linux** and **Neovim** for development.
+- 📊 Understanding **Artificial Intellegence** through **Kaggle**.
+- 💻 Linux enthusiast, using **Arch** and **Neovim** for development.
 - 🤖 Working with **Arduino**, **ESP8266**, and **ESP32** for building robotics projects.
 - 📚 Avid reader of science fictions and curious explorer of scientific discoveries and modern technologies.
 <!-- - 🎨 Exploring the intersection of **Art and Code** with **Processing.org**.-->
@@ -26,6 +27,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 <!-- ![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 <!-- ![Termux](https://img.shields.io/badge/-Termux-2CA5E0?style=for-the-badge&logo=termux&logoColor=white) -->
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/-JupyterLab-4776AB?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -35,17 +37,18 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Interests:
+- **Artificial Intelligence** and **Machine Learning**.
 - Learning **programming** to make my life enjoyable .
-- Linux distributions like **Arch Linux** and **Parrot OS**.
+- Open Source Prejects like **Git**, **Linux**, **Python** etc.
 <!-- - Creating **science project** to protect the world .
 - Configuring **Neovim** as an IDE for efficient development.
 - Learning **Git** and mastering **GitHub workflows**.
 -->
 ### 🌱 Attraction & Affection:
 - 🔧 Programming: C, C++, Python.
-- 🤖 Robotics: Arduino, ESP8266, ESP32.
 - 🎨 Arts: Creative Painting with Krita.
-- 🐧 Linux Enthusiast: Arch Linux and Parrot OS.
+- 🤖 Robotics: Arduino, ESP8266, ESP32.
+- 🐧 Linux Enthusiast: Arch and OpenSuse.
 
 <!--
 ### 🌟 GitHub Stats
