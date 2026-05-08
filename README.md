@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 </p>
 
-# Hi there, I'm Abdullah Al Masum! 👋
+# 👋 Hi there, I'm Abdullah Al Masum!
 
 <p align='center'>
 Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world of programming, robotics, and artificial intelligence. I love exploring new technologies and pushing the boundaries of my knowledge every day.
@@ -27,19 +27,35 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 - 🤖 Working with **Arduino**, **ESP8266**, and **ESP32** for building robotics projects.
 - 📚 Avid reader of science fictions and curious explorer of scientific discoveries and modern technologies.
 
-### ✨ Interests:
+### ✨ Interests
 
 - 🤖 **Artificial Intelligence** and **Machine Learning**.
 - 📜 Learning **programming** to make my life enjoyable .
 - 🐧 Open Source Prejects like **Git**, **Linux**, **Python** etc.
   
 
-### 🌱 Attraction & Affection:
+### 🌱 Attraction & Affection
 
 - 🔧 Programming: C, C++, Python.
 - 🎨 Arts: Creative Painting with Krita.
 - 🤖 Robotics: Arduino, ESP8266, ESP32.
 - 🐧 Linux Enthusiast: Arch and OpenSuse.
+
+
+## 🌐 Connect With Me
+
+
+<a href="mailto:abdullahibnulmisbah@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/IbnulMisbah">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://t.me/ibnulmisbah">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 
 ## 🛠️ Tech Stack
@@ -72,64 +88,40 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 
 ---
 
-## 🌟 GitHub Stats
+#### 🌟 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=tokyonight" />
 </p>
 
 
-## 🔥 GitHub Streak
+#### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IbnulMisbah&theme=tokyonight&hide_border=true" />
 </p>
 
 
-## 📈 Most Used Languages
+#### 📈 Most Used Languages
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IbnulMisbah&layout=compact&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
+
+#### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbnulMisbah&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbnulMisbah&theme=nightowl&hide_border=true" />
 </p>
 
 
-## 📊 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbnulMisbah&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 </p>
 
-
-## 🐍 Contribution Snake
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IbnulMisbah/IbnulMisbah/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:abdullahibnulmisbah@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.kaggle.com/IbnulMisbah">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://t.me/ibnulmisbah">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
----
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer"/>
 </p>
