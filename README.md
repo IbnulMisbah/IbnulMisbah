@@ -87,13 +87,13 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 </div>
 
 ---
-
+<!--
 #### 🌟 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=tokyonight" />
 </p>
-
+-->
 
 #### 🔥 GitHub Streak
 
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
   <img src="https://streak-stats.demolab.com?user=IbnulMisbah&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<!--
 #### 📈 Most Used Languages
 
 <p align="center">
@@ -114,7 +114,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner, diving into the world
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbnulMisbah&theme=nightowl&hide_border=true" />
 </p>
-
+-->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
